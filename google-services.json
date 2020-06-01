@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779488636359",
+    "firebase_url": "https://ojeelojee-storeapp.firebaseio.com",
+    "project_id": "ojeelojee-storeapp",
+    "storage_bucket": "ojeelojee-storeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779488636359:android:f9ee98b0769bb976627de2",
+        "android_client_info": {
+          "package_name": "com.ojeelojee.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779488636359-fpiokitmnfjcoip1j6ak3lcauga3qgvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7NkCo0vxjssCcowBXGG38bHD4C4h829Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779488636359-fpiokitmnfjcoip1j6ak3lcauga3qgvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
